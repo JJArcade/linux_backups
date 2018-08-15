@@ -1,0 +1,4 @@
+feh --bg-fill /home/jess/Pictures/moon_rising.png &
+xbindkeys &
+xrdb /home/jess/.Xresources &
+conky -b &
