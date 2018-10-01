@@ -148,9 +148,9 @@ bindsym $mod+r mode "resize"
 #my customs
 new_window pixel 5
 focus_follows_mouse no
-set $bg = #ffffff
-set $fg = #5a5758
-set $red = #ee2e24
+set $bg=#ffffff
+set $fg=#5a5758
+set $red=#ee2e24
 
 #class		        border  backgr  text    indicator
 client.focused      $bg	    $bg     $fg     $red

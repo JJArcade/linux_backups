@@ -1,6 +1,6 @@
 set expandtab
 set tabstop=4
-set softabstop=4
+set softtabstop=4
 set shiftwidth=4
 
 set nocompatible
